@@ -18,3 +18,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tt11-code&show_icons=true&locale=en&layout=compact" alt="tt11-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tt11-code&theme=default" alt="tt11-code" /></p>
+
+<h3 align="left">Currently Watching:</h3>
+<p align="left">
+  <a href="https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011" target="_blank" rel="noreferrer">
+    <img src="https://cdn.myanimelist.net/images/anime/1337/99013.jpg" alt="Hunter x Hunter (2011)" width="150" />
+  </a>
+  <br />
+  <b>Hunter x Hunter (2011)</b>
+</p>
